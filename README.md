@@ -1,3 +1,4 @@
+
 # MERN MySQL CRUD
 
 This is a MERN stack application integrated with MySQL for performing CRUD operations.
@@ -24,3 +25,5 @@ npm install
 -DB_PASSWORD=
 -DB_NAME=mern_sql
 -PORT=5000
+
+
